@@ -1,6 +1,4 @@
 ABBA
-<<<<<<< HEAD
 Citron
-=======
 Beatles
->>>>>>> 9a1987ce37b8b4cd10e0411d3304c7bed24eec88
+
